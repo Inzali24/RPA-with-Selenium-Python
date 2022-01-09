@@ -1,0 +1,35 @@
+==> 2022-01-09 20:10:26 <==
+# cmd: D:\ANACONDA\Scripts\conda-script.py create --yes --json --prefix D:\ANACONDA\envs\SeleniumRPA python=3.8
+# conda version: 4.8.3
++defaults/noarch::wheel-0.37.0-pyhd3eb1b0_1
++defaults/win-64::ca-certificates-2021.10.26-haa95532_2
++defaults/win-64::certifi-2021.10.8-py38haa95532_0
++defaults/win-64::openssl-1.1.1l-h2bbff1b_0
++defaults/win-64::pip-21.2.2-py38haa95532_0
++defaults/win-64::python-3.8.12-h6244533_0
++defaults/win-64::setuptools-58.0.4-py38haa95532_0
++defaults/win-64::sqlite-3.37.0-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wincertstore-0.2-py38haa95532_2
+# update specs: ['python=3.8']
+==> 2022-01-09 20:12:15 <==
+# cmd: D:\ANACONDA\Scripts\conda-script.py install --yes --json --force-pscheck --prefix D:\ANACONDA\envs\SeleniumRPA selenium
+# conda version: 4.8.3
++defaults/noarch::idna-3.3-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/noarch::pyopenssl-21.0.0-pyhd3eb1b0_1
++defaults/noarch::six-1.16.0-pyhd3eb1b0_0
++defaults/noarch::urllib3-1.26.7-pyhd3eb1b0_0
++defaults/win-64::brotlipy-0.7.0-py38h2bbff1b_1003
++defaults/win-64::cffi-1.15.0-py38h2bbff1b_0
++defaults/win-64::cryptography-36.0.0-py38h21b164f_0
++defaults/win-64::pysocks-1.7.1-py38haa95532_0
++defaults/win-64::selenium-3.141.0-py38h2bbff1b_1000
++defaults/win-64::win_inet_pton-1.1.0-py38haa95532_0
+# update specs: ['selenium']
+==> 2022-01-09 20:34:34 <==
+# cmd: D:\ANACONDA\Scripts\conda-script.py install --yes --json --force-pscheck --prefix D:\ANACONDA\envs\SeleniumRPA chromedriver-binary
+# conda version: 4.8.3
++defaults/win-64::chromedriver-binary-2.38-0
+# update specs: ['chromedriver-binary']
