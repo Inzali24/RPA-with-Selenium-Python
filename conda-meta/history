@@ -74,3 +74,15 @@
 +defaults/win-64::numpy-base-1.21.5-py38hc2deb75_0
 +defaults/win-64::pandas-1.3.5-py38h6214cd6_0
 # update specs: ['xarray']
+==> 2022-02-12 20:40:19 <==
+# cmd: D:\ANACONDA\Scripts\conda-script.py install --yes --json --force-pscheck --prefix D:\ANACONDA\envs\SeleniumRPA pandas==1.1.5
+# conda version: 4.8.3
+-defaults/win-64::pandas-1.3.5-py38h6214cd6_0
++defaults/win-64::pandas-1.1.5-py38hf11a4ad_0
+# update specs: ['pandas==1.1.5']
+==> 2022-02-12 20:51:34 <==
+# cmd: D:\ANACONDA\Scripts\conda-script.py install --yes --json --force-pscheck --prefix D:\ANACONDA\envs\SeleniumRPA pandas==1.3.5
+# conda version: 4.8.3
+-defaults/win-64::pandas-1.1.5-py38hf11a4ad_0
++defaults/win-64::pandas-1.3.5-py38h6214cd6_0
+# update specs: ['pandas==1.3.5']
